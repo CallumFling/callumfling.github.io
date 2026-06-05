@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Liftoff!"
+date:   2026-06-05
+last_modified_at: 2026-06-05
+categories: [meta]
+---
+
+This is a test of a theme for the blog. The content will change, so for now here's some pointles C code
+
+Jekyll also offers powerful support for code snippets:
+
+```c
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+  printf("Hello World!\n");
+  return 0;
+}
+
+// => prints 'Hello World!' to STDOUT.
+```

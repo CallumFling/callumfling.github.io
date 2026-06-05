@@ -1,20 +1,29 @@
-.post-info {
-  padding-bottom: 30px;
-  margin: 20px 0 5px;
-  padding-top: 20px;
+@charset "utf-8";
+
+.post-title {
+  text-align: center;
 }
 
 .post-content {
-  line-height: 35px;
-  padding-bottom: 50px;
+  // scrollable for mobile devices
+  overflow-x: scroll;
 }
 
-.post-content h1, h3, code, pre {
-  padding-bottom: 10px;
-  padding-top: 10px;
+.post-content p {
+  line-height: 20px;
 }
 
-.post-content h2 {
-  padding-bottom: 20px;
-  padding-top: 20px;
+.post-content img {
+  display: block;
+  margin: 10px auto;
+}
+
+.post-info {
+  line-height: 24px;
+  margin: 10px 0;
+}
+
+.post-category,
+.post-tag {
+  margin: 0 5px;
 }
