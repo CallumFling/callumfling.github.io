@@ -8,8 +8,6 @@ categories: [meta]
 
 This is a test of a theme for the blog. The content will change, so for now here's some pointles C code
 
-Jekyll also offers powerful support for code snippets:
-
 ```c
 #include <stdio.h>
 
